@@ -212,6 +212,8 @@ function create_config( )
     "inrealm",
     "poker",
     "lol",
+    "sms",
+    "nerkh",
     "getplug"
     "inpm",
     "ingroup",
