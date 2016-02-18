@@ -210,6 +210,9 @@ function create_config( )
     enabled_plugins = {
     "onservice",
     "inrealm",
+    "poker",
+    "lol",
+    "getplug"
     "inpm",
     "ingroup",
     "banhammer",
@@ -235,7 +238,6 @@ function create_config( )
     "spm",
     "chatbot",
     "version",
-    "support",
     "gps",
     "stats",
     "botnumber",
@@ -243,7 +245,7 @@ function create_config( )
     "info",
     "lock_join"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {139534999},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
